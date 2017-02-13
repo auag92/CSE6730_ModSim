@@ -1,4 +1,4 @@
-//YOUR NAME HERE
+//Apaar Shanker
 
 public class Event implements Comparable<Event> {
     private EventHandler m_handler;
